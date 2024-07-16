@@ -8,9 +8,12 @@ pip3 install scapy pyvis
 ```
 
 # Usage
+Generate the HTML page
 ```
-python3 PythonNetworkMapper.py input.pcap output.html
+python3 NetworkMapper.py input.pcap output.html
 ```
+Open the HTML page in your browser.
+
 
 # Credits
 - [@DhaeyerWolf](https://twitter.com/DhaeyerWolf)
